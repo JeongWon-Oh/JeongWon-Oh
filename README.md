@@ -1,8 +1,9 @@
-I'm **Jeong Won Oh (David Kim Oh)**, student of **Yonsei University, Korea**.
+I'm **Jeong Won Oh (David Kim Oh)**.
 
-I majored in **Electrical and Electronic Engineering**.
+I'm planned to enter **Tokyo Institute of Technology** in April 2022.
+I'll study for a master's degree in Information and Communications Engineering as a member of **CARAS**, under the supervision of Prof. Sasaki.
 
-I have completed the Barchelor of Science degree coursework and expected to graduate in 2022.
+I'll receive a B.S. degree from **Yonsei University** in February 2022. I majored in Electrical and Electronic Engineering at the College of Engineering.
 
 Contact: davidkimoh@naver.com || lonaan35@gmail.com
 
