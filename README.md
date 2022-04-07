@@ -4,7 +4,6 @@ I’m a master student of **Tokyo Institute of Technology**, studying for a mast
 
 I received my Bachelor’s degree from **Yonsei University** in 2022. I majored in Electrical and Electronic Engineering at the College of Engineering.
 
-Homepage: https://jeongwon-oh.github.io  
 Contact: davidkimoh@naver.com || lonaan35@gmail.com || oh.j.ad@m.titech.ac.jp
 
 <!---
